@@ -1,0 +1,255 @@
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-03-problems-ds-can-solve-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-03-problems-ds-can-solve-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-03-problems-ds-can-solve-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-04-the-data-science-process-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-04-the-data-science-process-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-04-the-data-science-process-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-05-setting-up-environment-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-05-setting-up-environment-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-05-setting-up-environment-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-06-working-with-lessons-on-learn-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-06-working-with-lessons-on-learn-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-06-working-with-lessons-on-learn-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-07-working-with-lessons-on-learn-lab-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-07-working-with-lessons-on-learn-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-07-working-with-lessons-on-learn-lab-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-08-your-first-data-science-codealong-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-08-your-first-data-science-codealong-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-08-your-first-data-science-codealong-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-09-variable-assignment-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-09-variable-assignment-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-09-variable-assignment-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-10-strings-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-10-strings-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-10-strings-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-11-strings-lab-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-11-strings-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-11-strings-lab-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-13-numeric-types-lab-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-13-numeric-types-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-13-numeric-types-lab-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-15-control-flow-conditionals-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-15-control-flow-conditionals-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-15-control-flow-conditionals-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-19-looping-over-collections-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-19-looping-over-collections-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-19-looping-over-collections-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-20-looping-over-collections-lab-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-20-looping-over-collections-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-20-looping-over-collections-lab-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-22-working-with-dictionaries-lab-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-22-working-with-dictionaries-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-22-working-with-dictionaries-lab-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-23-visualizing-data-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-23-visualizing-data-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-23-visualizing-data-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-27-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-27-section-recap-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-01-27-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-03-python-operators-functions-and-methods-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-03-python-operators-functions-and-methods-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-03-python-operators-functions-and-methods-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-04-python-operators-functions-and-methods-lab-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-04-python-operators-functions-and-methods-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-04-python-operators-functions-and-methods-lab-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-05-while-loops-break-continue-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-05-while-loops-break-continue-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-05-while-loops-break-continue-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-06-while-loops-break-continue-lab-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-06-while-loops-break-continue-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-06-while-loops-break-continue-lab-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-07-using-nested-loops-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-07-using-nested-loops-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-07-using-nested-loops-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-09-creating-functions-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-09-creating-functions-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-09-creating-functions-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-10-creating-functions-lab-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-10-creating-functions-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-10-creating-functions-lab-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-11-functions-with-arguments-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-11-functions-with-arguments-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-11-functions-with-arguments-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-12-functions-with-arguments-lab-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-12-functions-with-arguments-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-12-functions-with-arguments-lab-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-13-measures-of-central-tendency-summary-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-13-measures-of-central-tendency-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-13-measures-of-central-tendency-summary-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-14-measures-of-central-tendency-quiz-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-14-measures-of-central-tendency-quiz-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-14-measures-of-central-tendency-quiz-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-15-measures-of-dispersion-summary-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-15-measures-of-dispersion-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-15-measures-of-dispersion-summary-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-16-measures-of-dispersion-quiz-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-16-measures-of-dispersion-quiz-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-16-measures-of-dispersion-quiz-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-17-implementing-statistics-with-functions-lab-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-17-implementing-statistics-with-functions-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-17-implementing-statistics-with-functions-lab-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-19-project-lab-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-19-project-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-19-project-lab-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-04-importing-data-using-pandas-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-04-importing-data-using-pandas-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-03-04-importing-data-using-pandas-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-06-understanding-pandas-series-and-dataframes-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-06-understanding-pandas-series-and-dataframes-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-03-06-understanding-pandas-series-and-dataframes-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-09-accessing-data-within-pandas-lab-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-09-accessing-data-within-pandas-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-03-09-accessing-data-within-pandas-lab-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-10-statistical-methods-in-pandas-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-10-statistical-methods-in-pandas-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-03-10-statistical-methods-in-pandas-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-11-statistical-methods-in-pandas-lab-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-11-statistical-methods-in-pandas-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-03-11-statistical-methods-in-pandas-lab-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-13-customizing-visualizations-with-matplotlib-lab-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-13-customizing-visualizations-with-matplotlib-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-03-13-customizing-visualizations-with-matplotlib-lab-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-14-data-visualization-with-pandas-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-14-data-visualization-with-pandas-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-03-14-data-visualization-with-pandas-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-16-eda-with-pandas-using-the-boston-housing-data-lab-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-16-eda-with-pandas-using-the-boston-housing-data-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-03-16-eda-with-pandas-using-the-boston-housing-data-lab-online-ds-sp-000
+[submodule "Module_1/04-data-cleaning-in-pandas/dsc-1-04-03-lambda-functions-online-ds-sp-000"]
+	path = Module_1/04-data-cleaning-in-pandas/dsc-1-04-03-lambda-functions-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-04-03-lambda-functions-online-ds-sp-000
+[submodule "Module_1/04-data-cleaning-in-pandas/dsc-1-04-04-lambda-functions-lab-online-ds-sp-000"]
+	path = Module_1/04-data-cleaning-in-pandas/dsc-1-04-04-lambda-functions-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-04-04-lambda-functions-lab-online-ds-sp-000
+[submodule "Module_1/04-data-cleaning-in-pandas/dsc-1-04-06-combining-dataframes-with-pandas-online-ds-sp-000"]
+	path = Module_1/04-data-cleaning-in-pandas/dsc-1-04-06-combining-dataframes-with-pandas-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-04-06-combining-dataframes-with-pandas-online-ds-sp-000
+[submodule "Module_1/04-data-cleaning-in-pandas/dsc-1-04-08-pivot-tables-with-pandas-online-ds-sp-000"]
+	path = Module_1/04-data-cleaning-in-pandas/dsc-1-04-08-pivot-tables-with-pandas-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-04-08-pivot-tables-with-pandas-online-ds-sp-000
+[submodule "Module_1/04-data-cleaning-in-pandas/dsc-1-04-12-dealing-with-missing-data-lab-online-ds-sp-000"]
+	path = Module_1/04-data-cleaning-in-pandas/dsc-1-04-12-dealing-with-missing-data-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-04-12-dealing-with-missing-data-lab-online-ds-sp-000
+[submodule "Module_1/04-data-cleaning-in-pandas/dsc-1-04-13-project-data-cleaning-online-ds-sp-000"]
+	path = Module_1/04-data-cleaning-in-pandas/dsc-1-04-13-project-data-cleaning-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-04-13-project-data-cleaning-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-05-selecting-data-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-05-selecting-data-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-05-05-selecting-data-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-06-selecting-data-lab-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-06-selecting-data-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-05-06-selecting-data-lab-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-07-filtering-and-ordering-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-07-filtering-and-ordering-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-05-07-filtering-and-ordering-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-08-filtering-and-ordering-lab-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-08-filtering-and-ordering-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-05-08-filtering-and-ordering-lab-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-09-introduction-to-table-relationships-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-09-introduction-to-table-relationships-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-05-09-introduction-to-table-relationships-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-10-join-statements-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-10-join-statements-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-05-10-join-statements-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-12-one-to-many-and-many-to-many-joins-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-12-one-to-many-and-many-to-many-joins-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-05-12-one-to-many-and-many-to-many-joins-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-13-one-to-many-and-many-to-many-joins-lab-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-13-one-to-many-and-many-to-many-joins-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-05-13-one-to-many-and-many-to-many-joins-lab-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-14-grouping-data-with-sql-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-14-grouping-data-with-sql-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-05-14-grouping-data-with-sql-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-16-using-sql-with-pandas-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-16-using-sql-with-pandas-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-05-16-using-sql-with-pandas-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-19-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-19-section-recap-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-05-19-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/06-object-oriented-programming/dsc-1-06-04-introduction-to-classes-and-instances-online-ds-sp-000"]
+	path = Module_1/06-object-oriented-programming/dsc-1-06-04-introduction-to-classes-and-instances-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-06-04-introduction-to-classes-and-instances-online-ds-sp-000
+[submodule "Module_1/06-object-oriented-programming/dsc-1-06-06-instance-methods-online-ds-sp-000"]
+	path = Module_1/06-object-oriented-programming/dsc-1-06-06-instance-methods-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-06-06-instance-methods-online-ds-sp-000
+[submodule "Module_1/06-object-oriented-programming/dsc-1-06-05-classes-and-instances-lab-online-ds-sp-000"]
+	path = Module_1/06-object-oriented-programming/dsc-1-06-05-classes-and-instances-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-06-05-classes-and-instances-lab-online-ds-sp-000
+[submodule "Module_1/06-object-oriented-programming/dsc-1-06-07-instance-methods-lab-online-ds-sp-000"]
+	path = Module_1/06-object-oriented-programming/dsc-1-06-07-instance-methods-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-06-07-instance-methods-lab-online-ds-sp-000
+[submodule "Module_1/06-object-oriented-programming/dsc-1-06-09-understanding-self-online-ds-sp-000"]
+	path = Module_1/06-object-oriented-programming/dsc-1-06-09-understanding-self-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-06-09-understanding-self-online-ds-sp-000
+[submodule "Module_1/06-object-oriented-programming/dsc-1-06-10-object-attributes-getter-and-setter-methods-online-ds-sp-000"]
+	path = Module_1/06-object-oriented-programming/dsc-1-06-10-object-attributes-getter-and-setter-methods-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-06-10-object-attributes-getter-and-setter-methods-online-ds-sp-000
+[submodule "Module_1/06-object-oriented-programming/dsc-1-06-11-object-attributes-lab-online-ds-sp-000"]
+	path = Module_1/06-object-oriented-programming/dsc-1-06-11-object-attributes-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-06-11-object-attributes-lab-online-ds-sp-000
+[submodule "Module_1/06-object-oriented-programming/dsc-1-06-13-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/06-object-oriented-programming/dsc-1-06-13-section-recap-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-06-13-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-07-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-03-object-initialization-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-03-object-initialization-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-07-03-object-initialization-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-04-object-initialization-lab-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-04-object-initialization-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-07-04-object-initialization-lab-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-05-object-oriented-attributes-with-functions-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-05-object-oriented-attributes-with-functions-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-07-05-object-oriented-attributes-with-functions-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-06-object-oriented-attributes-with-functions-lab-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-06-object-oriented-attributes-with-functions-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-07-06-object-oriented-attributes-with-functions-lab-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-07-object-oriented-shopping-cart-lab-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-07-object-oriented-shopping-cart-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-07-07-object-oriented-shopping-cart-lab-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-08-class-variables-and-instance-methods-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-08-class-variables-and-instance-methods-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-07-08-class-variables-and-instance-methods-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-09-inheritance-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-09-inheritance-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-07-09-inheritance-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-10-inheritance-lab-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-10-inheritance-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-07-10-inheritance-lab-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-13-building-an-object-oriented-simulation-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-13-building-an-object-oriented-simulation-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-07-13-building-an-object-oriented-simulation-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-14-building-an-object-oriented-simulation-lab-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-14-building-an-object-oriented-simulation-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-07-14-building-an-object-oriented-simulation-lab-online-ds-sp-000
+[submodule "Module_1/07-oop-continued/dsc-1-07-14-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/07-oop-continued/dsc-1-07-14-section-recap-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-07-14-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-08-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-03-intro-to-numpy-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-03-intro-to-numpy-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-08-03-intro-to-numpy-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-04-getting-started-with-numpy-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-04-getting-started-with-numpy-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-08-04-getting-started-with-numpy-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-05-getting-started-with-numpy-lab-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-05-getting-started-with-numpy-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-08-05-getting-started-with-numpy-lab-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-06-introduction-to-combinatorics-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-06-introduction-to-combinatorics-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-08-06-introduction-to-combinatorics-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-07-introduction-to-sets-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-07-introduction-to-sets-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-08-07-introduction-to-sets-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-08-introduction-to-sets-lab-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-08-introduction-to-sets-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-08-08-introduction-to-sets-lab-online-ds-sp-000
