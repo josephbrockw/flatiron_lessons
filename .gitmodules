@@ -556,3 +556,240 @@
 [submodule "Module_3/26-time-series-modeling/dsc-3-26-09-facebook-prophet-lab-online-ds-sp-000"]
 	path = Module_3/26-time-series-modeling/dsc-3-26-09-facebook-prophet-lab-online-ds-sp-000
 	url = https://github.com/josephbrockw/dsc-3-26-09-facebook-prophet-lab-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-21-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-21-section-recap-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-02-21-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-03-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-03-introducing-python-libraries-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-03-introducing-python-libraries-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-03-03-introducing-python-libraries-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-05-importing-data-using-pandas-lab-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-05-importing-data-using-pandas-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-03-05-importing-data-using-pandas-lab-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-12-customizing-visualizations-with-matplotlib-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-12-customizing-visualizations-with-matplotlib-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-03-12-customizing-visualizations-with-matplotlib-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-19-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-19-section-recap-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-03-19-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/04-data-cleaning-in-pandas/dsc-1-04-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/04-data-cleaning-in-pandas/dsc-1-04-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-04-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/04-data-cleaning-in-pandas/dsc-1-04-11-dealing-with-missing-data-quiz-online-ds-sp-000"]
+	path = Module_1/04-data-cleaning-in-pandas/dsc-1-04-11-dealing-with-missing-data-quiz-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-04-11-dealing-with-missing-data-quiz-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-05-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-11-join-statements-lab-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-11-join-statements-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-05-11-join-statements-lab-online-ds-sp-000
+[submodule "Module_1/05-sql-and-relational-databases/dsc-1-05-17-using-sql-with-pandas-lab-online-ds-sp-000"]
+	path = Module_1/05-sql-and-relational-databases/dsc-1-05-17-using-sql-with-pandas-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-05-17-using-sql-with-pandas-lab-online-ds-sp-000
+[submodule "Module_1/06-object-oriented-programming/dsc-1-06-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/06-object-oriented-programming/dsc-1-06-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-06-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/06-object-oriented-programming/dsc-1-06-03-introduction-to-object-orientation-online-ds-sp-000"]
+	path = Module_1/06-object-oriented-programming/dsc-1-06-03-introduction-to-object-orientation-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-06-03-introduction-to-object-orientation-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-09-introduction-to-probability-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-09-introduction-to-probability-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-08-09-introduction-to-probability-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-10-introduction-to-probability-lab-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-10-introduction-to-probability-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-08-10-introduction-to-probability-lab-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-11-permutations-and-factorials-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-11-permutations-and-factorials-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-08-11-permutations-and-factorials-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-12-permutations-and-factorials-lab-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-12-permutations-and-factorials-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-08-12-permutations-and-factorials-lab-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-13-combinations-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-13-combinations-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-08-13-combinations-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-14-combinations-lab-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-14-combinations-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-08-14-combinations-lab-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-15-bernoulli-and-binomial-distribution-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-15-bernoulli-and-binomial-distribution-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-08-15-bernoulli-and-binomial-distribution-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-16-bernoulli-and-binomial-distribution-lab-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-16-bernoulli-and-binomial-distribution-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-08-16-bernoulli-and-binomial-distribution-lab-online-ds-sp-000
+[submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-17-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-17-section-recap-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-08-17-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-03-statistical-distributions-and-their-use-cases-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-03-statistical-distributions-and-their-use-cases-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-03-statistical-distributions-and-their-use-cases-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-04-statistical-distributions-with-stem-and-leaf-plots-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-04-statistical-distributions-with-stem-and-leaf-plots-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-04-statistical-distributions-with-stem-and-leaf-plots-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-05-statistical-distributions-with-stem-and-leaf-plots-labs-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-05-statistical-distributions-with-stem-and-leaf-plots-labs-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-05-statistical-distributions-with-stem-and-leaf-plots-labs-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-06-the-probability-mass-function-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-06-the-probability-mass-function-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-06-the-probability-mass-function-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-07-the-probability-mass-function-lab-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-07-the-probability-mass-function-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-07-the-probability-mass-function-lab-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-08-the-cumulative-distribution-function-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-08-the-cumulative-distribution-function-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-08-the-cumulative-distribution-function-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-10-the-probability-density-function-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-10-the-probability-density-function-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-10-the-probability-density-function-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-11-the-probability-density-function-lab-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-11-the-probability-density-function-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-11-the-probability-density-function-lab-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-12-normal-gaussian-distributions-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-12-normal-gaussian-distributions-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-12-normal-gaussian-distributions-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-13-normal-gaussian-distributions-lab-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-13-normal-gaussian-distributions-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-13-normal-gaussian-distributions-lab-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-14-standard-normal-distribution-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-14-standard-normal-distribution-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-14-standard-normal-distribution-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-15-standard-normal-distribution-lab-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-15-standard-normal-distribution-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-15-standard-normal-distribution-lab-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-16-skewness-and-kurtosis-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-16-skewness-and-kurtosis-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-16-skewness-and-kurtosis-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-17-skewness-and-kurtosis-lab-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-17-skewness-and-kurtosis-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-17-skewness-and-kurtosis-lab-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-18-statistical-testing-with-z-score-and-p-value-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-18-statistical-testing-with-z-score-and-p-value-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-18-statistical-testing-with-z-score-and-p-value-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-19-one-sample-z-test-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-19-one-sample-z-test-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-19-one-sample-z-test-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-20-one-sample-z-test-lab-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-20-one-sample-z-test-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-20-one-sample-z-test-lab-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-22-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-22-section-recap-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-09-22-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/10-introduction-to-linear-regression/dsc-1-10-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/10-introduction-to-linear-regression/dsc-1-10-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-10-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/10-introduction-to-linear-regression/dsc-01-10-11-regression-assumptions-online-ds-sp-000"]
+	path = Module_1/10-introduction-to-linear-regression/dsc-01-10-11-regression-assumptions-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-01-10-11-regression-assumptions-online-ds-sp-000
+[submodule "Module_1/10-introduction-to-linear-regression/dsc-01-10-12-ols-statsmodels-online-ds-sp-000"]
+	path = Module_1/10-introduction-to-linear-regression/dsc-01-10-12-ols-statsmodels-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-01-10-12-ols-statsmodels-online-ds-sp-000
+[submodule "Module_1/10-introduction-to-linear-regression/dsc-01-10-13-regression-statsmodels-lab-online-ds-sp-000"]
+	path = Module_1/10-introduction-to-linear-regression/dsc-01-10-13-regression-statsmodels-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-01-10-13-regression-statsmodels-lab-online-ds-sp-000
+[submodule "Module_1/10-introduction-to-linear-regression/dsc-01-10-14-regression-diagnostics-online-ds-sp-000"]
+	path = Module_1/10-introduction-to-linear-regression/dsc-01-10-14-regression-diagnostics-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-01-10-14-regression-diagnostics-online-ds-sp-000
+[submodule "Module_1/10-introduction-to-linear-regression/dsc-01-10-15-significance-p-value-online-ds-sp-000"]
+	path = Module_1/10-introduction-to-linear-regression/dsc-01-10-15-significance-p-value-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-01-10-15-significance-p-value-online-ds-sp-000
+[submodule "Module_1/10-introduction-to-linear-regression/dsc-01-10-16-regression-EOD-Lab-online-ds-sp-000"]
+	path = Module_1/10-introduction-to-linear-regression/dsc-01-10-16-regression-EOD-Lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-01-10-16-regression-EOD-Lab-online-ds-sp-000
+[submodule "Module_1/10-introduction-to-linear-regression/dsc-1-10-18-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/10-introduction-to-linear-regression/dsc-1-10-18-section-recap-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-10-18-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-03-multiple-linear-regression-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-03-multiple-linear-regression-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-03-multiple-linear-regression-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-04-dealing-with-categorical-variables-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-04-dealing-with-categorical-variables-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-04-dealing-with-categorical-variables-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-05-dealing-with-categorical-variables-lab-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-05-dealing-with-categorical-variables-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-05-dealing-with-categorical-variables-lab-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-06-multicollinearity-of-features-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-06-multicollinearity-of-features-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-06-multicollinearity-of-features-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-07-multicollinearity-of-features-lab-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-07-multicollinearity-of-features-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-07-multicollinearity-of-features-lab-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-08-feature-scaling-and-normalization-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-08-feature-scaling-and-normalization-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-08-feature-scaling-and-normalization-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-09-feature-scaling-and-normalization-lab-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-09-feature-scaling-and-normalization-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-09-feature-scaling-and-normalization-lab-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-10-multiple-linear-regression-in-statsmodels-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-10-multiple-linear-regression-in-statsmodels-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-10-multiple-linear-regression-in-statsmodels-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-11-multiple-linear-regression-in-statsmodels-lab-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-11-multiple-linear-regression-in-statsmodels-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-11-multiple-linear-regression-in-statsmodels-lab-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-12-adjusted-r-squared-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-12-adjusted-r-squared-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-12-adjusted-r-squared-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-13-adjusted-r-squared-lab-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-13-adjusted-r-squared-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-13-adjusted-r-squared-lab-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-14-regression-model-validation-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-14-regression-model-validation-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-14-regression-model-validation-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-15-regression-model-validation-lab-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-15-regression-model-validation-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-15-regression-model-validation-lab-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-16-introduction-to-cross-validation-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-16-introduction-to-cross-validation-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-16-introduction-to-cross-validation-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-17-introduction-to-cross-validation-lab-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-17-introduction-to-cross-validation-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-17-introduction-to-cross-validation-lab-online-ds-sp-000
+[submodule "Module_1/11-multiple-regression-and-model-validation/dsc-1-11-19-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/11-multiple-regression-and-model-validation/dsc-1-11-19-section-recap-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-11-19-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-12-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-022-data-science-processes-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-022-data-science-processes-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-12-022-data-science-processes-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-03-obtaining-our-data-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-03-obtaining-our-data-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-12-03-obtaining-our-data-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-04-obtaining-our-data-lab-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-04-obtaining-our-data-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-12-04-obtaining-our-data-lab-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-05-scrubbing-our-data-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-05-scrubbing-our-data-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-12-05-scrubbing-our-data-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-06-scrubbing-our-data-lab-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-06-scrubbing-our-data-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-12-06-scrubbing-our-data-lab-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-07-exploring-our-data-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-07-exploring-our-data-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-12-07-exploring-our-data-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-08-exploring-our-data-lab-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-08-exploring-our-data-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-12-08-exploring-our-data-lab-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-09-modelling-our-data-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-09-modelling-our-data-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-12-09-modelling-our-data-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-10-holdout-validation-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-10-holdout-validation-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-12-10-holdout-validation-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-11-modeling-our-data-lab-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-11-modeling-our-data-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-12-11-modeling-our-data-lab-online-ds-sp-000
+[submodule "Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-16-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/12-a-complete-data-science-project-using-multiple-regression/dsc-1-12-16-section-recap-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-12-16-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/Project/dsc-1-final-project-online-ds-sp-000"]
+	path = Module_1/Project/dsc-1-final-project-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-1-final-project-online-ds-sp-000
