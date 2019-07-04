@@ -508,3 +508,51 @@
 [submodule "Module_2/26-time-series-modeling/dsc-2-26-11-section-recap-online-ds-sp-000"]
 	path = Module_2/26-time-series-modeling/dsc-2-26-11-section-recap-online-ds-sp-000
 	url = https://github.com/josephbrockw/dsc-2-26-11-section-recap-online-ds-sp-000
+[submodule "Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-02-introduction-to-time-series-online-ds-sp-000"]
+	path = Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-02-introduction-to-time-series-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-25-02-introduction-to-time-series-online-ds-sp-000
+[submodule "Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-03-managing-time-series-data-lab-online-ds-sp-000"]
+	path = Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-03-managing-time-series-data-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-25-03-managing-time-series-data-lab-online-ds-sp-000
+[submodule "Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-04-visualizing-time-series-data-lab-online-ds-sp-000"]
+	path = Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-04-visualizing-time-series-data-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-25-04-visualizing-time-series-data-lab-online-ds-sp-000
+[submodule "Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-05-types-of-trends-online-ds-sp-000"]
+	path = Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-05-types-of-trends-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-25-05-types-of-trends-online-ds-sp-000
+[submodule "Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-06-testing-for-trends-lab-online-ds-sp-000"]
+	path = Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-06-testing-for-trends-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-25-06-testing-for-trends-lab-online-ds-sp-000
+[submodule "Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-07-removing-trends-online-ds-sp-000"]
+	path = Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-07-removing-trends-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-25-07-removing-trends-online-ds-sp-000
+[submodule "Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-08-removing-trends-lab-online-ds-sp-000"]
+	path = Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-08-removing-trends-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-25-08-removing-trends-lab-online-ds-sp-000
+[submodule "Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-09-time-series-decomposition-online-ds-sp-000"]
+	path = Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-09-time-series-decomposition-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-25-09-time-series-decomposition-online-ds-sp-000
+[submodule "Module_3/26-time-series-modeling/dsc-3-26-02-basic-time-series-models-online-ds-sp-000"]
+	path = Module_3/26-time-series-modeling/dsc-3-26-02-basic-time-series-models-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-26-02-basic-time-series-models-online-ds-sp-000
+[submodule "Module_3/26-time-series-modeling/dsc-3-26-03-basic-time-series-models-lab-online-ds-sp-000"]
+	path = Module_3/26-time-series-modeling/dsc-3-26-03-basic-time-series-models-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-26-03-basic-time-series-models-lab-online-ds-sp-000
+[submodule "Module_3/26-time-series-modeling/dsc-3-26-04-correlation-and-autocorrelation-in-time-series-online-ds-sp-000"]
+	path = Module_3/26-time-series-modeling/dsc-3-26-04-correlation-and-autocorrelation-in-time-series-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-26-04-correlation-and-autocorrelation-in-time-series-online-ds-sp-000
+[submodule "Module_3/26-time-series-modeling/dsc-3-26-05-correlation-and-autocorrelation-in-time-series-lab-online-ds-sp-000"]
+	path = Module_3/26-time-series-modeling/dsc-3-26-05-correlation-and-autocorrelation-in-time-series-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-26-05-correlation-and-autocorrelation-in-time-series-lab-online-ds-sp-000
+[submodule "Module_3/26-time-series-modeling/dsc-3-26-06-arma-models-online-ds-sp-000"]
+	path = Module_3/26-time-series-modeling/dsc-3-26-06-arma-models-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-26-06-arma-models-online-ds-sp-000
+[submodule "Module_3/26-time-series-modeling/dsc-3-26-07-arma-models-lab-online-ds-sp-000"]
+	path = Module_3/26-time-series-modeling/dsc-3-26-07-arma-models-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-26-07-arma-models-lab-online-ds-sp-000
+[submodule "Module_3/26-time-series-modeling/dsc-3-26-08-sarima-models-lab-online-ds-sp-000"]
+	path = Module_3/26-time-series-modeling/dsc-3-26-08-sarima-models-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-26-08-sarima-models-lab-online-ds-sp-000
+[submodule "Module_3/26-time-series-modeling/dsc-3-26-09-facebook-prophet-lab-online-ds-sp-000"]
+	path = Module_3/26-time-series-modeling/dsc-3-26-09-facebook-prophet-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-26-09-facebook-prophet-lab-online-ds-sp-000
