@@ -253,3 +253,258 @@
 [submodule "Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-08-introduction-to-sets-lab-online-ds-sp-000"]
 	path = Module_1/08-numpy-and-foundations-of-probability-and-combinatorics/dsc-1-08-08-introduction-to-sets-lab-online-ds-sp-000
 	url = https://github.com/josephbrockw/dsc-1-08-08-introduction-to-sets-lab-online-ds-sp-000
+[submodule "Module_2/15-an-introduction-to-orms/dsc-2-15-06-http-request-response-cycle-lab-online-ds-sp-000"]
+	path = Module_2/15-an-introduction-to-orms/dsc-2-15-06-http-request-response-cycle-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-15-06-http-request-response-cycle-lab-online-ds-sp-000
+[submodule "Module_2/15-an-introduction-to-orms/dsc-2-15-07-apis-and-oauth-online-ds-sp-000"]
+	path = Module_2/15-an-introduction-to-orms/dsc-2-15-07-apis-and-oauth-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-15-07-apis-and-oauth-online-ds-sp-000
+[submodule "Module_2/17-accessing-data-through-apis/dsc-2-17-08-using-the-yelp-api-codealong-online-ds-sp-000"]
+	path = Module_2/17-accessing-data-through-apis/dsc-2-17-08-using-the-yelp-api-codealong-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-17-08-using-the-yelp-api-codealong-online-ds-sp-000
+[submodule "Module_2/17-accessing-data-through-apis/dsc-2-17-09-reading-api-documentation-online-ds-sp-000"]
+	path = Module_2/17-accessing-data-through-apis/dsc-2-17-09-reading-api-documentation-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-17-09-reading-api-documentation-online-ds-sp-000
+[submodule "Module_2/17-accessing-data-through-apis/dsc-2-17-11-yelp-api-lab-online-ds-sp-000"]
+	path = Module_2/17-accessing-data-through-apis/dsc-2-17-11-yelp-api-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-17-11-yelp-api-lab-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-04-html-intro-lab-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-04-html-intro-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-18-04-html-intro-lab-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-06-html-links-lab-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-06-html-links-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-18-06-html-links-lab-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-12-kitten-into-wheelbarrow-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-12-kitten-into-wheelbarrow-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-18-12-kitten-into-wheelbarrow-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-13-graffitti-override-lab-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-13-graffitti-override-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-18-13-graffitti-override-lab-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-14-web-scraping-with-beautiful-soup-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-14-web-scraping-with-beautiful-soup-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-18-14-web-scraping-with-beautiful-soup-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-15-web-scraping-with-beautiful-soup-lab-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-15-web-scraping-with-beautiful-soup-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-18-15-web-scraping-with-beautiful-soup-lab-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-03-statistical-distributions-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-03-statistical-distributions-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-03-statistical-distributions-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-04-negative-binomial-distribution-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-04-negative-binomial-distribution-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-04-negative-binomial-distribution-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-05-geometric-distribution-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-05-geometric-distribution-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-05-geometric-distribution-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-07-geometric-and-negative-binomial-distribution-lab-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-07-geometric-and-negative-binomial-distribution-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-07-geometric-and-negative-binomial-distribution-lab-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-07-poisson-distribution-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-07-poisson-distribution-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-07-poisson-distribution-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-08-poisson-distribution-lab-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-08-poisson-distribution-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-08-poisson-distribution-lab-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-09-exponential-distribution-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-09-exponential-distribution-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-09-exponential-distribution-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-10-exponential-distribution-lab-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-10-exponential-distribution-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-10-exponential-distribution-lab-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-11-introduction-to-sampling-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-11-introduction-to-sampling-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-11-introduction-to-sampling-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-12-central-limit-theorem-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-12-central-limit-theorem-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-12-central-limit-theorem-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-13-central-limit-theorem-lab-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-13-central-limit-theorem-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-13-central-limit-theorem-lab-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-14-sampling-statistics-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-14-sampling-statistics-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-14-sampling-statistics-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-15-confidence-intervals-lab-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-15-confidence-intervals-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-15-confidence-intervals-lab-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-16-confidence-intervals-with-t-distribution-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-16-confidence-intervals-with-t-distribution-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-16-confidence-intervals-with-t-distribution-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-17-confidence-intervals-with-t-distribution-lab-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-17-confidence-intervals-with-t-distribution-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-17-confidence-intervals-with-t-distribution-lab-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-01-introduction-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-01-introduction-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-03-introduction-to-experimental-design-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-03-introduction-to-experimental-design-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-03-introduction-to-experimental-design-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-04-p-values-and-null-hypothesis-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-04-p-values-and-null-hypothesis-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-04-p-values-and-null-hypothesis-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-05-effect-sizes-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-05-effect-sizes-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-05-effect-sizes-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-08-1-sample-t-tests-lab-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-08-1-sample-t-tests-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-08-1-sample-t-tests-lab-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-09-2-sample-t-tests-lab-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-09-2-sample-t-tests-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-09-2-sample-t-tests-lab-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-10-type-1-and-type-2-errors-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-10-type-1-and-type-2-errors-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-10-type-1-and-type-2-errors-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-11type-1-and-type-2-errors-lab-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-11type-1-and-type-2-errors-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-11type-1-and-type-2-errors-lab-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-12-statistical-power-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-12-statistical-power-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-12-statistical-power-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-13-statistical-power-lab-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-13-statistical-power-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-13-statistical-power-lab-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-14-effect-size-p-values-and-power-lab-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-14-effect-size-p-values-and-power-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-14-effect-size-p-values-and-power-lab-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-15-multiple-comparisons-problem-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-15-multiple-comparisons-problem-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-15-multiple-comparisons-problem-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-16-ab-testing-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-16-ab-testing-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-16-ab-testing-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-17-ab-testing-lab-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-17-ab-testing-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-17-ab-testing-lab-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-18-goodhearts-law-and-metric-tracking-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-18-goodhearts-law-and-metric-tracking-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-18-goodhearts-law-and-metric-tracking-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-19-anova-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-19-anova-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-19-anova-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-20-anova-lab-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-20-anova-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-20-anova-lab-online-ds-sp-000
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-18-section-recap-online-ds-sp-000"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-18-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-20-18-section-recap-online-ds-sp-000
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-03-conditional-prob-online-ds-sp-000"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-03-conditional-prob-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-21-03-conditional-prob-online-ds-sp-000
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-04-conditional-prob-lab-online-ds-sp-000"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-04-conditional-prob-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-21-04-conditional-prob-lab-online-ds-sp-000
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-05-total-prob-law-online-ds-sp-000"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-05-total-prob-law-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-21-05-total-prob-law-online-ds-sp-000
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-06-total-prob-law-lab-online-ds-sp-000"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-06-total-prob-law-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-21-06-total-prob-law-lab-online-ds-sp-000
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-07-probability-simulations-online-ds-sp-000"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-07-probability-simulations-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-21-07-probability-simulations-online-ds-sp-000
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-08-bayes-theorem-online-ds-sp-000"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-08-bayes-theorem-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-21-08-bayes-theorem-online-ds-sp-000
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-10-monty-hall-lab-online-ds-sp-000"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-10-monty-hall-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-21-10-monty-hall-lab-online-ds-sp-000
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-11-PE-MLE-online-ds-sp-000"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-11-PE-MLE-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-21-11-PE-MLE-online-ds-sp-000
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-13-conjugate-prior-online-ds-sp-000"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-13-conjugate-prior-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-21-13-conjugate-prior-online-ds-sp-000
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-16-section-recap-online-ds-sp-000"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-16-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-21-16-section-recap-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-01-introduction-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-22-01-introduction-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-03-MLE-Gaussian-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-03-MLE-Gaussian-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-22-03-MLE-Gaussian-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-03-MLE-gaussian-lab-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-03-MLE-gaussian-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-22-03-MLE-gaussian-lab-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-05-MAP-naive-bayes-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-05-MAP-naive-bayes-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-22-05-MAP-naive-bayes-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-06-naive-bayes-assumptions-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-06-naive-bayes-assumptions-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-22-06-naive-bayes-assumptions-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-07-NB-Numpy-Lab-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-07-NB-Numpy-Lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-22-07-NB-Numpy-Lab-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-08-NB-sklearn-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-08-NB-sklearn-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-22-08-NB-sklearn-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-10-natural-language-processing-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-10-natural-language-processing-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-22-10-natural-language-processing-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-11-natural-language-processing-lab-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-11-natural-language-processing-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-22-11-natural-language-processing-lab-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-12-naive-bayes-and-nlp-in-sklearn-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-12-naive-bayes-and-nlp-in-sklearn-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-22-12-naive-bayes-and-nlp-in-sklearn-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-14-document-classification-using-naive-bayes-lab-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-14-document-classification-using-naive-bayes-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-22-14-document-classification-using-naive-bayes-lab-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-15-optimality-of-naive-bayes-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-15-optimality-of-naive-bayes-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-22-15-optimality-of-naive-bayes-online-ds-sp-000
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-16-section-recap-online-ds-sp-000"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-16-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-22-16-section-recap-online-ds-sp-000
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-05-data-generation-process-code-along-online-ds-sp-000"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-05-data-generation-process-code-along-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-23-05-data-generation-process-code-along-online-ds-sp-000
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-01-introduction-online-ds-sp-000"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-24-01-introduction-online-ds-sp-000
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-03-interactions-online-ds-sp-000"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-03-interactions-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-24-03-interactions-online-ds-sp-000
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-04-interactions-lab-online-ds-sp-000"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-04-interactions-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-24-04-interactions-lab-online-ds-sp-000
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-05-polynomial-regression-online-ds-sp-000"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-05-polynomial-regression-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-24-05-polynomial-regression-online-ds-sp-000
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-06-polynomial-regression-lab-online-ds-sp-000"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-06-polynomial-regression-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-24-06-polynomial-regression-lab-online-ds-sp-000
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-07-bias-variance-trade-off-online-ds-sp-000"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-07-bias-variance-trade-off-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-24-07-bias-variance-trade-off-online-ds-sp-000
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-08-bias-variance-trade-off-lab-online-ds-sp-000"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-08-bias-variance-trade-off-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-24-08-bias-variance-trade-off-lab-online-ds-sp-000
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-09-ridge-and-lasso-regression-online-ds-sp-000"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-09-ridge-and-lasso-regression-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-24-09-ridge-and-lasso-regression-online-ds-sp-000
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-10-ridge-and-lasso-regression-lab-online-ds-sp-000"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-10-ridge-and-lasso-regression-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-24-10-ridge-and-lasso-regression-lab-online-ds-sp-000
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-11-feature-and-model-selection-aic-and-bic-online-ds-sp-000"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-11-feature-and-model-selection-aic-and-bic-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-24-11-feature-and-model-selection-aic-and-bic-online-ds-sp-000
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-12-extensions-to-linear-models-lab-online-ds-sp-000"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-12-extensions-to-linear-models-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-24-12-extensions-to-linear-models-lab-online-ds-sp-000
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-14-section-recap-online-ds-sp-000"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-14-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-24-14-section-recap-online-ds-sp-000
+[submodule "Module_2/Project/dsc-2-final-project-online-ds-sp-000"]
+	path = Module_2/Project/dsc-2-final-project-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-final-project-online-ds-sp-000
+[submodule "Module_2/25-time-series-visualization-and-testing-for-trends/dsc-2-25-01-introduction-online-ds-sp-000"]
+	path = Module_2/25-time-series-visualization-and-testing-for-trends/dsc-2-25-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-25-01-introduction-online-ds-sp-000
+[submodule "Module_2/25-time-series-visualization-and-testing-for-trends/dsc-2-25-10-section-recap-online-ds-sp-000"]
+	path = Module_2/25-time-series-visualization-and-testing-for-trends/dsc-2-25-10-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-25-10-section-recap-online-ds-sp-000
+[submodule "Module_2/26-time-series-modeling/dsc-2-26-01-introduction-online-ds-sp-000"]
+	path = Module_2/26-time-series-modeling/dsc-2-26-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-26-01-introduction-online-ds-sp-000
+[submodule "Module_2/26-time-series-modeling/dsc-2-26-11-section-recap-online-ds-sp-000"]
+	path = Module_2/26-time-series-modeling/dsc-2-26-11-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-26-11-section-recap-online-ds-sp-000
