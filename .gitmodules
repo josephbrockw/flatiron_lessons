@@ -1075,3 +1075,282 @@
 [submodule "Module_2/34-dimensionality-reduction-with-pca/dsc-2-34-01-introduction-online-ds-sp-000"]
 	path = Module_2/34-dimensionality-reduction-with-pca/dsc-2-34-01-introduction-online-ds-sp-000
 	url = https://github.com/josephbrockw/dsc-2-34-01-introduction-online-ds-sp-000
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-02-distance-metrics-online-ds-sp-000"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-02-distance-metrics-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-27-02-distance-metrics-online-ds-sp-000
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-03-distance-metrics-lab-online-ds-sp-000"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-03-distance-metrics-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-27-03-distance-metrics-lab-online-ds-sp-000
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-04-k-nearest-neighbors-online-ds-sp-000"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-04-k-nearest-neighbors-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-27-04-k-nearest-neighbors-online-ds-sp-000
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-05-k-nearest-neighbors-lab-online-ds-sp-000"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-05-k-nearest-neighbors-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-27-05-k-nearest-neighbors-lab-online-ds-sp-000
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-06-confusion-matrices-online-ds-sp-000"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-06-confusion-matrices-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-27-06-confusion-matrices-online-ds-sp-000
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-07-evaluation-metrics-online-ds-sp-000"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-07-evaluation-metrics-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-27-07-evaluation-metrics-online-ds-sp-000
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-08-evaluation-metrics-lab-online-ds-sp-000"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-08-evaluation-metrics-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-27-08-evaluation-metrics-lab-online-ds-sp-000
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-09-finding-the-best-value-for-k-online-ds-sp-000"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-09-finding-the-best-value-for-k-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-27-09-finding-the-best-value-for-k-online-ds-sp-000
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-11-knn-with-sklearn-online-ds-sp-000"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-11-knn-with-sklearn-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-27-11-knn-with-sklearn-online-ds-sp-000
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-12-knn-with-sklearn-lab-online-ds-sp-000"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-12-knn-with-sklearn-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-27-12-knn-with-sklearn-lab-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-02-introduction-to-graph-theory-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-02-introduction-to-graph-theory-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-28-02-introduction-to-graph-theory-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-03-graphs-python-networkx-codealong-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-03-graphs-python-networkx-codealong-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-28-03-graphs-python-networkx-codealong-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-04-graph-data-io-codealong-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-04-graph-data-io-codealong-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-28-04-graph-data-io-codealong-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-06-graph-theory-simple-shortest-path-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-06-graph-theory-simple-shortest-path-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-28-06-graph-theory-simple-shortest-path-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-07-graph-theory-simple-shortest-path-lab-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-07-graph-theory-simple-shortest-path-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-28-07-graph-theory-simple-shortest-path-lab-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-08-graph-dynamics-node-centrality-codealong-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-08-graph-dynamics-node-centrality-codealong-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-28-08-graph-dynamics-node-centrality-codealong-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-09-graph-dynamics-node-centrality-lab-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-09-graph-dynamics-node-centrality-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-28-09-graph-dynamics-node-centrality-lab-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-10-graph-dynamics-bipartite-graphs-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-10-graph-dynamics-bipartite-graphs-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-28-10-graph-dynamics-bipartite-graphs-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-11-graph-dynamics-bipartite-graphs-lab-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-11-graph-dynamics-bipartite-graphs-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-28-11-graph-dynamics-bipartite-graphs-lab-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-12-graph-connectivity-community-detection-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-12-graph-connectivity-community-detection-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-28-12-graph-connectivity-community-detection-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-13-sna-ego-networks-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-13-sna-ego-networks-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-28-13-sna-ego-networks-online-ds-sp-000
+[submodule "Module_3/28-graph-theory/dsc-3-28-15-amazon-recommendation-system-online-ds-sp-000"]
+	path = Module_3/28-graph-theory/dsc-3-28-15-amazon-recommendation-system-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-28-15-amazon-recommendation-system-online-ds-sp-000
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-02-linear-to-logistic-regression-online-ds-sp-000"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-02-linear-to-logistic-regression-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-29-02-linear-to-logistic-regression-online-ds-sp-000
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-03-fitting-a-logistic-regression-model-lab-online-ds-sp-000"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-03-fitting-a-logistic-regression-model-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-29-03-fitting-a-logistic-regression-model-lab-online-ds-sp-000
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-04-logistic-regression-in-scikit-learn-online-ds-sp-000"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-04-logistic-regression-in-scikit-learn-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-29-04-logistic-regression-in-scikit-learn-online-ds-sp-000
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-05-fitting-a-logistic-regression-model-lab2-online-ds-sp-000"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-05-fitting-a-logistic-regression-model-lab2-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-29-05-fitting-a-logistic-regression-model-lab2-online-ds-sp-000
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-06-evaluating-logistic-regression-models-lab-online-ds-sp-000"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-06-evaluating-logistic-regression-models-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-29-06-evaluating-logistic-regression-models-lab-online-ds-sp-000
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-07-visualizing-confusion-matrices-lab-online-ds-sp-000"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-07-visualizing-confusion-matrices-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-29-07-visualizing-confusion-matrices-lab-online-ds-sp-000
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-08-roc-curves-and-auc-online-ds-sp-000"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-08-roc-curves-and-auc-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-29-08-roc-curves-and-auc-online-ds-sp-000
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-09-roc-curves-and-auc-lab-online-ds-sp-000"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-09-roc-curves-and-auc-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-29-09-roc-curves-and-auc-lab-online-ds-sp-000
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-10-class-imbalance-problems-online-ds-sp-000"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-10-class-imbalance-problems-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-29-10-class-imbalance-problems-online-ds-sp-000
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-11-class-imbalance-problems-lab-online-ds-sp-000"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-11-class-imbalance-problems-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-29-11-class-imbalance-problems-lab-online-ds-sp-000
+[submodule "Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-02-mle-review-online-ds-sp-000"]
+	path = Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-02-mle-review-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-30-02-mle-review-online-ds-sp-000
+[submodule "Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-03-mle-and-logistic-regression-online-ds-sp-000"]
+	path = Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-03-mle-and-logistic-regression-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-30-03-mle-and-logistic-regression-online-ds-sp-000
+[submodule "Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-04-gradient-descent-review-online-ds-sp-000"]
+	path = Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-04-gradient-descent-review-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-30-04-gradient-descent-review-online-ds-sp-000
+[submodule "Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-05-gradient-descent-lab-online-ds-sp-000"]
+	path = Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-05-gradient-descent-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-30-05-gradient-descent-lab-online-ds-sp-000
+[submodule "Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-06-coding-logistic-regression-from-scratch-online-ds-sp-000"]
+	path = Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-06-coding-logistic-regression-from-scratch-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-30-06-coding-logistic-regression-from-scratch-online-ds-sp-000
+[submodule "Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-07-logistic-regression-model-comparisons-lab-online-ds-sp-000"]
+	path = Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-07-logistic-regression-model-comparisons-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-30-07-logistic-regression-model-comparisons-lab-online-ds-sp-000
+[submodule "Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-08-section-recap-online-ds-sp-000"]
+	path = Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-08-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-30-08-section-recap-online-ds-sp-000
+[submodule "Module_3/31-decision-trees/dsc-3-31-02-introduction-to-PAC-learning-theory-online-ds-sp-000"]
+	path = Module_3/31-decision-trees/dsc-3-31-02-introduction-to-PAC-learning-theory-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-31-02-introduction-to-PAC-learning-theory-online-ds-sp-000
+[submodule "Module_3/31-decision-trees/dsc-3-31-03-introduction-to-decision-trees-online-ds-sp-000"]
+	path = Module_3/31-decision-trees/dsc-3-31-03-introduction-to-decision-trees-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-31-03-introduction-to-decision-trees-online-ds-sp-000
+[submodule "Module_3/31-decision-trees/dsc-3-31-04-entropy-information-gain-online-ds-sp-000"]
+	path = Module_3/31-decision-trees/dsc-3-31-04-entropy-information-gain-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-31-04-entropy-information-gain-online-ds-sp-000
+[submodule "Module_3/31-decision-trees/dsc-3-31-05-ID3-trees-perfect-split-info-gain-lab-online-ds-sp-000"]
+	path = Module_3/31-decision-trees/dsc-3-31-05-ID3-trees-perfect-split-info-gain-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-31-05-ID3-trees-perfect-split-info-gain-lab-online-ds-sp-000
+[submodule "Module_3/31-decision-trees/dsc-3-31-06-decision-tree-scikitlearn-codealong-online-ds-sp-000"]
+	path = Module_3/31-decision-trees/dsc-3-31-06-decision-tree-scikitlearn-codealong-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-31-06-decision-tree-scikitlearn-codealong-online-ds-sp-000
+[submodule "Module_3/31-decision-trees/dsc-3-31-07-decision-tree-scikitlearn-lab-online-ds-sp-000"]
+	path = Module_3/31-decision-trees/dsc-3-31-07-decision-tree-scikitlearn-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-31-07-decision-tree-scikitlearn-lab-online-ds-sp-000
+[submodule "Module_3/31-decision-trees/dsc-3-31-08-decision-tree-pruning-hyperparameter-optimization-online-ds-sp-000"]
+	path = Module_3/31-decision-trees/dsc-3-31-08-decision-tree-pruning-hyperparameter-optimization-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-31-08-decision-tree-pruning-hyperparameter-optimization-online-ds-sp-000
+[submodule "Module_3/31-decision-trees/dsc-3-31-08-decision-tree-pruning-hyperparameter-optimization-lab-online-ds-sp-000"]
+	path = Module_3/31-decision-trees/dsc-3-31-08-decision-tree-pruning-hyperparameter-optimization-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-31-08-decision-tree-pruning-hyperparameter-optimization-lab-online-ds-sp-000
+[submodule "Module_3/31-decision-trees/dsc-3-31-09-regression-cart-trees-codealong-online-ds-sp-000"]
+	path = Module_3/31-decision-trees/dsc-3-31-09-regression-cart-trees-codealong-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-31-09-regression-cart-trees-codealong-online-ds-sp-000
+[submodule "Module_3/31-decision-trees/dsc-3-31-10-regression-cart-trees-lab-online-ds-sp-000"]
+	path = Module_3/31-decision-trees/dsc-3-31-10-regression-cart-trees-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-31-10-regression-cart-trees-lab-online-ds-sp-000
+[submodule "Module_3/31-decision-trees/dsc-3-31-11-regression-trees-model-optimization-lab-online-ds-sp-000"]
+	path = Module_3/31-decision-trees/dsc-3-31-11-regression-trees-model-optimization-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-31-11-regression-trees-model-optimization-lab-online-ds-sp-000
+[submodule "Module_3/31-decision-trees/dsc-3-31-13-section-recap-online-ds-sp-000"]
+	path = Module_3/31-decision-trees/dsc-3-31-13-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-31-13-section-recap-online-ds-sp-000
+[submodule "Module_3/32-ensemble-methods/dsc-3-32-02-ensemble-methods-online-ds-sp-000"]
+	path = Module_3/32-ensemble-methods/dsc-3-32-02-ensemble-methods-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-32-02-ensemble-methods-online-ds-sp-000
+[submodule "Module_3/32-ensemble-methods/dsc-3-32-03-random-forests-online-ds-sp-000"]
+	path = Module_3/32-ensemble-methods/dsc-3-32-03-random-forests-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-32-03-random-forests-online-ds-sp-000
+[submodule "Module_3/32-ensemble-methods/dsc-3-32-04-tree-ensembles-and-random-forests-lab-online-ds-sp-000"]
+	path = Module_3/32-ensemble-methods/dsc-3-32-04-tree-ensembles-and-random-forests-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-32-04-tree-ensembles-and-random-forests-lab-online-ds-sp-000
+[submodule "Module_3/32-ensemble-methods/dsc-3-32-05-gridsearchcv-online-ds-sp-000"]
+	path = Module_3/32-ensemble-methods/dsc-3-32-05-gridsearchcv-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-32-05-gridsearchcv-online-ds-sp-000
+[submodule "Module_3/32-ensemble-methods/dsc-3-32-06-gridsearchcv-lab-online-ds-sp-000"]
+	path = Module_3/32-ensemble-methods/dsc-3-32-06-gridsearchcv-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-32-06-gridsearchcv-lab-online-ds-sp-000
+[submodule "Module_3/32-ensemble-methods/dsc-3-32-07-gradient-boosting-and-weak-learners-online-ds-sp-000"]
+	path = Module_3/32-ensemble-methods/dsc-3-32-07-gradient-boosting-and-weak-learners-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-32-07-gradient-boosting-and-weak-learners-online-ds-sp-000
+[submodule "Module_3/32-ensemble-methods/dsc-3-32-09-gradient-boosting-lab-online-ds-sp-000"]
+	path = Module_3/32-ensemble-methods/dsc-3-32-09-gradient-boosting-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-32-09-gradient-boosting-lab-online-ds-sp-000
+[submodule "Module_3/32-ensemble-methods/dsc-3-32-10-xgboost-online-ds-sp-000"]
+	path = Module_3/32-ensemble-methods/dsc-3-32-10-xgboost-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-32-10-xgboost-online-ds-sp-000
+[submodule "Module_3/32-ensemble-methods/dsc-3-32-11-xgboost-lab-online-ds-sp-000"]
+	path = Module_3/32-ensemble-methods/dsc-3-32-11-xgboost-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-32-11-xgboost-lab-online-ds-sp-000
+[submodule "Module_3/32-ensemble-methods/dsc-3-32-12-section-recap-online-ds-sp-000"]
+	path = Module_3/32-ensemble-methods/dsc-3-32-12-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-32-12-section-recap-online-ds-sp-000
+[submodule "Module_3/33-support-vector-machines/dsc-3-33-02-introduction-to-support-vector-machines-online-ds-sp-000"]
+	path = Module_3/33-support-vector-machines/dsc-3-33-02-introduction-to-support-vector-machines-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-33-02-introduction-to-support-vector-machines-online-ds-sp-000
+[submodule "Module_3/33-support-vector-machines/dsc-3-33-03-building-an-svm-from-scratch-lab-online-ds-sp-000"]
+	path = Module_3/33-support-vector-machines/dsc-3-33-03-building-an-svm-from-scratch-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-33-03-building-an-svm-from-scratch-lab-online-ds-sp-000
+[submodule "Module_3/33-support-vector-machines/dsc-3-33-04-building-an-svm-using-scikit-learn-online-ds-sp-000"]
+	path = Module_3/33-support-vector-machines/dsc-3-33-04-building-an-svm-using-scikit-learn-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-33-04-building-an-svm-using-scikit-learn-online-ds-sp-000
+[submodule "Module_3/33-support-vector-machines/dsc-3-33-05-the-kernel-trick-online-ds-sp-000"]
+	path = Module_3/33-support-vector-machines/dsc-3-33-05-the-kernel-trick-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-33-05-the-kernel-trick-online-ds-sp-000
+[submodule "Module_3/33-support-vector-machines/dsc-3-33-06-kernels-in-scikit-learn-lab-online-ds-sp-000"]
+	path = Module_3/33-support-vector-machines/dsc-3-33-06-kernels-in-scikit-learn-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-33-06-kernels-in-scikit-learn-lab-online-ds-sp-000
+[submodule "Module_3/33-support-vector-machines/dsc-3-33-07-section-recap-online-ds-sp-000"]
+	path = Module_3/33-support-vector-machines/dsc-3-33-07-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-33-07-section-recap-online-ds-sp-000
+[submodule "Module_3/35-clustering/dsc-3-35-02-unsupervised-learning-online-ds-sp-000"]
+	path = Module_3/35-clustering/dsc-3-35-02-unsupervised-learning-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-35-02-unsupervised-learning-online-ds-sp-000
+[submodule "Module_3/33-support-vector-machines/dsc-3-33-02-curse-of-dimensionality-online-ds-sp-000"]
+	path = Module_3/33-support-vector-machines/dsc-3-33-02-curse-of-dimensionality-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-33-02-curse-of-dimensionality-online-ds-sp-000
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-03-curse-of-dimensionality-simulation-lab-online-ds-sp-000"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-03-curse-of-dimensionality-simulation-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-34-03-curse-of-dimensionality-simulation-lab-online-ds-sp-000
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-04-pca-covariance-mat-eigendecomp-online-ds-sp-000"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-04-pca-covariance-mat-eigendecomp-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-34-04-pca-covariance-mat-eigendecomp-online-ds-sp-000
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-06-performing-principle-component-analysis-online-ds-sp-000"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-06-performing-principle-component-analysis-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-34-06-performing-principle-component-analysis-online-ds-sp-000
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-07-pca-implementation-visualization-python-numpy-lab-online-ds-sp-000"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-07-pca-implementation-visualization-python-numpy-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-34-07-pca-implementation-visualization-python-numpy-lab-online-ds-sp-000
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-08-principle-component-analysis-in-scikitlearn-online-ds-sp-000"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-08-principle-component-analysis-in-scikitlearn-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-34-08-principle-component-analysis-in-scikitlearn-online-ds-sp-000
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-09-principle-component-analysis-in-scikitlearn-lab-online-ds-sp-000"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-09-principle-component-analysis-in-scikitlearn-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-34-09-principle-component-analysis-in-scikitlearn-lab-online-ds-sp-000
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-10-PCA-and-digital-image-processing-online-ds-sp-000"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-10-PCA-and-digital-image-processing-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-34-10-PCA-and-digital-image-processing-online-ds-sp-000
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-11-image-compression-classification-with-pca-codealong-online-ds-sp-000"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-11-image-compression-classification-with-pca-codealong-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-34-11-image-compression-classification-with-pca-codealong-online-ds-sp-000
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-13-section-recap-online-ds-sp-000"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-13-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-34-13-section-recap-online-ds-sp-000
+[submodule "Module_3/35-clustering/dsc-3-35-01-introduction-online-ds-sp-000"]
+	path = Module_3/35-clustering/dsc-3-35-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-35-01-introduction-online-ds-sp-000
+[submodule "Module_3/35-clustering/dsc-3-35-03-k-means-clustering-online-ds-sp-000"]
+	path = Module_3/35-clustering/dsc-3-35-03-k-means-clustering-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-35-03-k-means-clustering-online-ds-sp-000
+[submodule "Module_3/35-clustering/dsc-3-35-04-k-means-clustering-lab-online-ds-sp-000"]
+	path = Module_3/35-clustering/dsc-3-35-04-k-means-clustering-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-35-04-k-means-clustering-lab-online-ds-sp-000
+[submodule "Module_3/35-clustering/dsc-3-35-05-hierarchical-agglomerative-clustering-online-ds-sp-000"]
+	path = Module_3/35-clustering/dsc-3-35-05-hierarchical-agglomerative-clustering-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-35-05-hierarchical-agglomerative-clustering-online-ds-sp-000
+[submodule "Module_3/35-clustering/dsc-3-35-06-common-problems-with-clustering-online-ds-sp-000"]
+	path = Module_3/35-clustering/dsc-3-35-06-common-problems-with-clustering-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-35-06-common-problems-with-clustering-online-ds-sp-000
+[submodule "Module_3/35-clustering/dsc-3-35-07-hierarchical-agglomerative-clustering-lab-online-ds-sp-000"]
+	path = Module_3/35-clustering/dsc-3-35-07-hierarchical-agglomerative-clustering-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-35-07-hierarchical-agglomerative-clustering-lab-online-ds-sp-000
+[submodule "Module_3/35-clustering/dsc-3-35-08-market-segmentation-with-clustering-online-ds-sp-000"]
+	path = Module_3/35-clustering/dsc-3-35-08-market-segmentation-with-clustering-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-35-08-market-segmentation-with-clustering-online-ds-sp-000
+[submodule "Module_3/35-clustering/dsc-3-35-09-market-segmentation-with-clustering-lab-online-ds-sp-000"]
+	path = Module_3/35-clustering/dsc-3-35-09-market-segmentation-with-clustering-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-35-09-market-segmentation-with-clustering-lab-online-ds-sp-000
+[submodule "Module_3/35-clustering/dsc-3-35-10-semi-supervised-learning-and-look-alike-models-online-ds-sp-000"]
+	path = Module_3/35-clustering/dsc-3-35-10-semi-supervised-learning-and-look-alike-models-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-35-10-semi-supervised-learning-and-look-alike-models-online-ds-sp-000
+[submodule "Module_3/35-clustering/dsc-3-35-11-section-recap-online-ds-sp-000"]
+	path = Module_3/35-clustering/dsc-3-35-11-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-35-11-section-recap-online-ds-sp-000
+[submodule "Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-01-introduction-online-ds-sp-000"]
+	path = Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-36-01-introduction-online-ds-sp-000
+[submodule "Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-02-Introduction-to-pipelines-online-ds-sp-000"]
+	path = Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-02-Introduction-to-pipelines-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-36-02-Introduction-to-pipelines-online-ds-sp-000
+[submodule "Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-03-comparing-machine-learning-techniques-using-pipelines-lab-online-ds-sp-000"]
+	path = Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-03-comparing-machine-learning-techniques-using-pipelines-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-36-03-comparing-machine-learning-techniques-using-pipelines-lab-online-ds-sp-000
+[submodule "Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-04-section-recap-online-ds-sp-000"]
+	path = Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-04-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-36-04-section-recap-online-ds-sp-000
+[submodule "Module_3/Project/dsc-3-final-project-online-ds-sp-000"]
+	path = Module_3/Project/dsc-3-final-project-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-3-final-project-online-ds-sp-000
