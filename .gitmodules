@@ -793,3 +793,285 @@
 [submodule "Module_1/Project/dsc-1-final-project-online-ds-sp-000"]
 	path = Module_1/Project/dsc-1-final-project-online-ds-sp-000
 	url = https://github.com/josephbrockw/dsc-1-final-project-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-02-introduction-summary-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-02-introduction-summary-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-03-lingalg-motivation-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-03-lingalg-motivation-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-03-lingalg-motivation-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-04-lingalg-linear-equations-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-04-lingalg-linear-equations-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-04-lingalg-linear-equations-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-05-lingalg-linear-equations-quiz-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-05-lingalg-linear-equations-quiz-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-05-lingalg-linear-equations-quiz-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-06-linalg-scalars-vectors-matrices-tensors-codealong-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-06-linalg-scalars-vectors-matrices-tensors-codealong-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-06-linalg-scalars-vectors-matrices-tensors-codealong-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-07-linalg-vector-addition-codealong-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-07-linalg-vector-addition-codealong-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-07-linalg-vector-addition-codealong-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-08-linalg-vector-matrices-numpy-lab-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-08-linalg-vector-matrices-numpy-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-08-linalg-vector-matrices-numpy-lab-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-09-linalg-mat-multiplication-codealong-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-09-linalg-mat-multiplication-codealong-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-09-linalg-mat-multiplication-codealong-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-10-linalg-dot-product-properties-lab-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-10-linalg-dot-product-properties-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-10-linalg-dot-product-properties-lab-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-11-linalg-python-vs-numpy-lab-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-11-linalg-python-vs-numpy-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-11-linalg-python-vs-numpy-lab-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-12-linalg-lineq-numpy-codealong-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-12-linalg-lineq-numpy-codealong-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-12-linalg-lineq-numpy-codealong-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-13-linalg-lineq-numpy-lab-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-13-linalg-lineq-numpy-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-13-linalg-lineq-numpy-lab-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-14-linalg-regression-codealong-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-14-linalg-regression-codealong-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-14-linalg-regression-codealong-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-15-linalg-regression-lab-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-15-linalg-regression-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-15-linalg-regression-lab-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-16-computational-complexity-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-16-computational-complexity-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-16-computational-complexity-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-18-section-recap-summary-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-18-section-recap-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-18-section-recap-summary-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-02-introduction-summary-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-02-introduction-summary-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-03-introduction-to-derivatives-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-03-introduction-to-derivatives-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-03-introduction-to-derivatives-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-04-introduction-to-derivatives-lab-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-04-introduction-to-derivatives-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-04-introduction-to-derivatives-lab-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-05-derivatives-of-non-linear-functions-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-05-derivatives-of-non-linear-functions-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-05-derivatives-of-non-linear-functions-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-06-rules-for-derivatives-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-06-rules-for-derivatives-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-06-rules-for-derivatives-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-07-rules-for-derivatives-lab-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-07-rules-for-derivatives-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-07-rules-for-derivatives-lab-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-08-derivatives-the-chain-rule-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-08-derivatives-the-chain-rule-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-08-derivatives-the-chain-rule-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-09-derivatives-conclusion-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-09-derivatives-conclusion-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-09-derivatives-conclusion-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-10-introduction-to-gradient-descent-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-10-introduction-to-gradient-descent-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-10-introduction-to-gradient-descent-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-11-gradient-descent-step-sizes-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-11-gradient-descent-step-sizes-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-11-gradient-descent-step-sizes-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-12-gradient-descent-step-sizes-lab-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-12-gradient-descent-step-sizes-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-12-gradient-descent-step-sizes-lab-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-13-gradient-descent-in-3d-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-13-gradient-descent-in-3d-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-13-gradient-descent-in-3d-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-14-the-gradient-in-gradient-descent-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-14-the-gradient-in-gradient-descent-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-14-the-gradient-in-gradient-descent-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-15-gradient-to-cost-function-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-15-gradient-to-cost-function-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-15-gradient-to-cost-function-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-16-applying-gradient-descent-lab-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-16-applying-gradient-descent-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-16-applying-gradient-descent-lab-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-14-section-recap-summary-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-14-section-recap-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-14-section-recap-summary-online-ds-sp-000
+[submodule "Module_2/15-an-introduction-to-orms/dsc-2-15-02-introduction-summary-online-ds-sp-000"]
+	path = Module_2/15-an-introduction-to-orms/dsc-2-15-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-15-02-introduction-summary-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-03-review-using-sqlite-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-03-review-using-sqlite-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-03-review-using-sqlite-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-04-review-using-sqlite-lab-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-04-review-using-sqlite-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-04-review-using-sqlite-lab-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-05-table-relationships-review-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-05-table-relationships-review-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-05-table-relationships-review-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-06-reading-erd-diagrams-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-06-reading-erd-diagrams-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-06-reading-erd-diagrams-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-07-using-an-orm-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-07-using-an-orm-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-07-using-an-orm-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-08-using-an-orm-lab-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-08-using-an-orm-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-08-using-an-orm-lab-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-09-many-to-many-relationships-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-09-many-to-many-relationships-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-09-many-to-many-relationships-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-10-queries-with-sqlalchemy-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-10-queries-with-sqlalchemy-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-10-queries-with-sqlalchemy-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-11-queries-with-sqlalchemy-lab-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-11-queries-with-sqlalchemy-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-11-queries-with-sqlalchemy-lab-online-ds-sp-000
+[submodule "Module_2/13-linear-algebra/dsc-2-13-13-section-recap-summary-online-ds-sp-000"]
+	path = Module_2/13-linear-algebra/dsc-2-13-13-section-recap-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-13-13-section-recap-summary-online-ds-sp-000
+[submodule "Module_2/16-working-with-json-and-xml/dsc-2-16-02-introduction-summary-online-ds-sp-000"]
+	path = Module_2/16-working-with-json-and-xml/dsc-2-16-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-16-02-introduction-summary-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-03-json_and_xml-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-03-json_and_xml-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-03-json_and_xml-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-04-json-and-xml-lab-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-04-json-and-xml-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-04-json-and-xml-lab-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-05-known-json-schemas-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-05-known-json-schemas-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-05-known-json-schemas-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-06-known-json-schemas-lab-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-06-known-json-schemas-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-06-known-json-schemas-lab-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-07-recursive-fuctions-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-07-recursive-fuctions-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-07-recursive-fuctions-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-08-recursive-fuctions-lab-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-08-recursive-fuctions-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-08-recursive-fuctions-lab-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-09-exploring-json-schemas-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-09-exploring-json-schemas-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-09-exploring-json-schemas-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-10-exploring-json-schemas-lab-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-10-exploring-json-schemas-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-10-exploring-json-schemas-lab-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-11-no-sql-databases-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-11-no-sql-databases-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-11-no-sql-databases-online-ds-sp-000
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-12-no-sql-databases-qz-online-ds-sp-000"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-12-no-sql-databases-qz-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-14-12-no-sql-databases-qz-online-ds-sp-000
+[submodule "Module_2/16-working-with-json-and-xml/dsc-2-16-14-section-recap-summary-online-ds-sp-000"]
+	path = Module_2/16-working-with-json-and-xml/dsc-2-16-14-section-recap-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-16-14-section-recap-summary-online-ds-sp-000
+[submodule "Module_2/17-accessing-data-through-apis/dsc-2-17-02-introduction-summary-online-ds-sp-000"]
+	path = Module_2/17-accessing-data-through-apis/dsc-2-17-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-17-02-introduction-summary-online-ds-sp-000
+[submodule "Module_2/15-an-introduction-to-orms/dsc-2-15-03-intro-to-APIs-online-ds-sp-000"]
+	path = Module_2/15-an-introduction-to-orms/dsc-2-15-03-intro-to-APIs-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-15-03-intro-to-APIs-online-ds-sp-000
+[submodule "Module_2/15-an-introduction-to-orms/dsc-2-15-04-clients-and-servers-online-ds-sp-000"]
+	path = Module_2/15-an-introduction-to-orms/dsc-2-15-04-clients-and-servers-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-15-04-clients-and-servers-online-ds-sp-000
+[submodule "Module_2/15-an-introduction-to-orms/dsc-2-15-05-http-request-response-cycle-online-ds-sp-000"]
+	path = Module_2/15-an-introduction-to-orms/dsc-2-15-05-http-request-response-cycle-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-15-05-http-request-response-cycle-online-ds-sp-000
+[submodule "Module_2/17-accessing-data-through-apis/dsc-2-17-12-section-recap-summary-online-ds-sp-000"]
+	path = Module_2/17-accessing-data-through-apis/dsc-2-17-12-section-recap-summary-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-17-12-section-recap-summary-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-01-introduction-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-18-01-introduction-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-03-html-introduction-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-03-html-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-18-03-html-introduction-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-05-html5-semantic-elements-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-05-html5-semantic-elements-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-18-05-html5-semantic-elements-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-07-researching-html-elements-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-07-researching-html-elements-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-18-07-researching-html-elements-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-08-seperating-content-and-presentation-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-08-seperating-content-and-presentation-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-18-08-seperating-content-and-presentation-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-09-intro-to-css-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-09-intro-to-css-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-18-09-intro-to-css-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-10-css-code-along-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-10-css-code-along-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-18-10-css-code-along-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-11-my-little-rainbow-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-11-my-little-rainbow-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-18-11-my-little-rainbow-online-ds-sp-000
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-15-section-recap-online-ds-sp-000"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-15-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-18-15-section-recap-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-01-introduction-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-01-introduction-online-ds-sp-000
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-17-section-recap-online-ds-sp-000"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-17-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-19-17-section-recap-online-ds-sp-000
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-01-introduction-online-ds-sp-000"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-21-01-introduction-online-ds-sp-000
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-09-bayes-theorem-lab-online-ds-sp-000"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-09-bayes-theorem-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-21-09-bayes-theorem-lab-online-ds-sp-000
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-12-PE-MAP-online-ds-sp-000"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-12-PE-MAP-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-21-12-PE-MAP-online-ds-sp-000
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-01-introduction-online-ds-sp-000"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-23-01-introduction-online-ds-sp-000
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-02-distributions-recap-online-ds-sp-000"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-02-distributions-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-23-02-distributions-recap-online-ds-sp-000
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-03-kolmogorov-smirnov-test-online-ds-sp-000"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-03-kolmogorov-smirnov-test-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-23-03-kolmogorov-smirnov-test-online-ds-sp-000
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-04-kolmogorov-smirnov-test-lab-online-ds-sp-000"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-04-kolmogorov-smirnov-test-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-23-04-kolmogorov-smirnov-test-lab-online-ds-sp-000
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-06-data-generation-process-lab-online-ds-sp-000"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-06-data-generation-process-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-23-06-data-generation-process-lab-online-ds-sp-000
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-08-resampling-methods-online-ds-sp-000"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-08-resampling-methods-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-23-08-resampling-methods-online-ds-sp-000
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-09-resampling-methods-lab-online-ds-sp-000"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-09-resampling-methods-lab-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-23-09-resampling-methods-lab-online-ds-sp-000
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-11-monte-carlo-simulations-lab-permutation-testing-online-ds-sp-000"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-11-monte-carlo-simulations-lab-permutation-testing-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-23-11-monte-carlo-simulations-lab-permutation-testing-online-ds-sp-000
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-14-section-recap-online-ds-sp-000"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-14-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-23-14-section-recap-online-ds-sp-000
+[submodule "Module_2/27-distance-metrics-and-k-nearest-neighbors/dsc-2-27-01-introduction-online-ds-sp-000"]
+	path = Module_2/27-distance-metrics-and-k-nearest-neighbors/dsc-2-27-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-27-01-introduction-online-ds-sp-000
+[submodule "Module_2/27-distance-metrics-and-k-nearest-neighbors/dsc-2-27-13-section-recap-online-ds-sp-000"]
+	path = Module_2/27-distance-metrics-and-k-nearest-neighbors/dsc-2-27-13-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-27-13-section-recap-online-ds-sp-000
+[submodule "Module_2/28-graph-theory/dsc-2-28-01-introduction-online-ds-sp-000"]
+	path = Module_2/28-graph-theory/dsc-2-28-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-28-01-introduction-online-ds-sp-000
+[submodule "Module_2/28-graph-theory/dsc-2-28-15-section-recap-online-ds-sp-000"]
+	path = Module_2/28-graph-theory/dsc-2-28-15-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-28-15-section-recap-online-ds-sp-000
+[submodule "Module_2/29-introduction-to-logistic-regression/dsc-2-29-01-introduction-online-ds-sp-000"]
+	path = Module_2/29-introduction-to-logistic-regression/dsc-2-29-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-29-01-introduction-online-ds-sp-000
+[submodule "Module_2/29-introduction-to-logistic-regression/dsc-2-29-12-section-recap-online-ds-sp-000"]
+	path = Module_2/29-introduction-to-logistic-regression/dsc-2-29-12-section-recap-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-29-12-section-recap-online-ds-sp-000
+[submodule "Module_2/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-2-30-01-introduction-online-ds-sp-000"]
+	path = Module_2/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-2-30-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-30-01-introduction-online-ds-sp-000
+[submodule "Module_2/31-decision-trees/dsc-2-31-01-introduction-online-ds-sp-000"]
+	path = Module_2/31-decision-trees/dsc-2-31-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-31-01-introduction-online-ds-sp-000
+[submodule "Module_2/32-ensemble-methods/dsc-2-32-01-introduction-online-ds-sp-000"]
+	path = Module_2/32-ensemble-methods/dsc-2-32-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-32-01-introduction-online-ds-sp-000
+[submodule "Module_2/33-support-vector-machines/dsc-2-33-01-introduction-online-ds-sp-000"]
+	path = Module_2/33-support-vector-machines/dsc-2-33-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-33-01-introduction-online-ds-sp-000
+[submodule "Module_2/34-dimensionality-reduction-with-pca/dsc-2-34-01-introduction-online-ds-sp-000"]
+	path = Module_2/34-dimensionality-reduction-with-pca/dsc-2-34-01-introduction-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-2-34-01-introduction-online-ds-sp-000
