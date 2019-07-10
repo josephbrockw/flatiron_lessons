@@ -1579,3 +1579,6 @@
 [submodule "Module_4/Project/dsc-4-final-project-online-ds-sp-000"]
 	path = Module_4/Project/dsc-4-final-project-online-ds-sp-000
 	url = https://github.com/josephbrockw/dsc-4-final-project-online-ds-sp-000
+[submodule "v2/Module_1/dsc-bash-shell-online-ds-sp-000"]
+	path = v2/Module_1/dsc-bash-shell-online-ds-sp-000
+	url = https://github.com/josephbrockw/dsc-bash-shell-online-ds-sp-000
